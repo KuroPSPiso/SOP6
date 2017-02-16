@@ -5,6 +5,7 @@
     <title></title>
   </head>
   <body>
-
+    <p>new index page details for SOP6</p>
+    <p>update</p>
   </body>
 </html>
